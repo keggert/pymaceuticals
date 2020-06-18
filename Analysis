@@ -1,0 +1,12 @@
+Conclusions about the Data
+
+1. With the treatment of capomulin, the cancer in mouse m601 was able to be treated. Based on the data, it showed that
+capomulin can be an effective cancer treatment. Of the four regimens of treatment that I analyzed, capomulin and ramicane had
+mice with the smallest tumor volumes proving their effectiveness.
+
+2. Based on the scatter plot and looking at our r-value, there is a correlation between average tumor volume and mouse weight. 
+With mice of a larger size, the average tumor volume is larger. With a correlation value of .84, there is strong correlation, 
+showing a relationship between average tumor volume and mouse weight. Based on the data, we can see that mice of a larger size have
+larger tumors on average based on volume.
+
+3. 
